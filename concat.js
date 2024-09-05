@@ -8,5 +8,4 @@ const fullName2 = first.concat(' ').concat(last);
 console.log(fullName2);
 
 // Includes
-
 console.log(last.includes('b'));
