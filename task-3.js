@@ -10,3 +10,6 @@ const student = {
 
 console.log(student);
 console.log(student.physics.marks);
+
+const numberOfProperties = Object.keys(student).length;
+console.log(numberOfProperties);
